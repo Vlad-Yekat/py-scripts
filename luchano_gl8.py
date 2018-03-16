@@ -35,5 +35,6 @@ l1[1].remove(55)
 print(l1)
 print(l2)
 l2[1] += [33,22]
+l2[2] += (10,11)
 print(l1)
 print(l2)
